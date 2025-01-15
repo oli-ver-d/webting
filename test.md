@@ -1,18 +1,18 @@
 # The Evolution of Programming Language Lexicon Towards English-Like Constructs
 
 ## Overview
-Programming languages have undergone significant transformation since their inception, with a noticeable trend towards adopting more English-like syntax and constructs. Early programming languages relied heavily on abstract symbols and mathematical notation, but modern languages increasingly favor readability and natural language elements to make programming more accessible.
+Programming languages have undergone significant transformation since their inception, with a noticeable trend towards adopting more English-like syntax and constructs. Early programming languages relied heavily on abstract symbols and mathematical notation, but modern languages increasingly favour readability and natural language elements to make programming more accessible.
 
 This evolution is driven by the need to lower the barrier to entry for newcomers, improve collaboration among diverse teams, and enhance productivity by making code easier to read and understand. From the assembly language of the 1950s to modern languages like Python, the shift reflects a broader movement towards human-centric design in technology.
 
-Notably, Nvidia CEO Jensen Huang has proposed using English as the universal coding language for AI development. This visionary concept aims to democratize AI by leveraging a language that is intuitive and familiar to many, reducing barriers and encouraging participation from diverse backgrounds.
+Notably, Nvidia CEO Jensen Huang has proposed using English as the universal coding language for AI development. This visionary concept aims to democratise AI by leveraging a language that is intuitive and familiar to many, reducing barriers and encouraging participation from diverse backgrounds.
 
 ---
 
 ## Key Innovations
 
 ### 1. High-Level Abstractions
-Languages like Python and Ruby prioritize simple, readable code. For example, Python uses:
+Languages like Python and Ruby prioritise simple, readable code. For example, Python uses:
 ```python
 if x > 0:
     print("Positive")
@@ -94,10 +94,10 @@ def calculate_total(price, tax):
 Natural language elements can introduce ambiguity. For example, terms like `add` or `merge` might have different meanings depending on context. Resolving such ambiguities requires careful design and robust documentation.
 
 ### 2. Performance Overheads
-High-level, English-like abstractions often come at the cost of performance compared to low-level, optimized code. This trade-off is especially relevant in performance-critical applications such as game development or embedded systems.
+High-level, English-like abstractions often come at the cost of performance compared to low-level, optimised code. This trade-off is especially relevant in performance-critical applications such as game development or embedded systems.
 
 ### 3. Non-English Speakers
-The reliance on English syntax may create barriers for non-English speakers, limiting inclusivity. Efforts to localize programming languages or create multilingual programming environments are ongoing but face significant challenges.
+The reliance on English syntax may create barriers for non-English speakers, limiting inclusivity. Efforts to localise programming languages or create multilingual programming environments are ongoing but face significant challenges.
 
 ### 4. Balancing Readability and Precision
 Designers must strike a balance between making a language readable and ensuring it remains precise and unambiguous for machine interpretation. This balance often requires compromises that may not satisfy all users.
@@ -111,7 +111,7 @@ Realizing Nvidia’s vision of English-based programming requires robust NLP fra
 ---
 
 ## Conclusion
-The movement towards English-like programming language lexicons reflects a desire to make programming more intuitive, accessible, and collaborative. Nvidia CEO Jensen Huang’s proposal to use English as a universal coding language for AI development exemplifies this trend, highlighting the potential for natural language programming to revolutionize the field.
+The movement towards English-like programming language lexicons reflects a desire to make programming more intuitive, accessible, and collaborative. Nvidia CEO Jensen Huang’s proposal to use English as a universal coding language for AI development exemplifies this trend, highlighting the potential for natural language programming to revolutionise the field.
 
-While challenges remain—including ambiguity, performance concerns, and inclusivity—advancements in NLP and AI models are making natural language programming increasingly viable. As industry leaders and educational institutions collaborate to refine these technologies, we stand on the brink of a new era in programming that prioritizes usability and innovation, unlocking unprecedented opportunities in the age of AI.
+While challenges remain—including ambiguity, performance concerns, and inclusivity—advancements in NLP and AI models are making natural language programming increasingly viable. As industry leaders and educational institutions collaborate to refine these technologies, we stand on the brink of a new era in programming that prioritises usability and innovation, unlocking unprecedented opportunities in the age of AI.
 
